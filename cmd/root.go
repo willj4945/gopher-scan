@@ -10,7 +10,7 @@ import (
 var rootCmd = &cobra.Command{
 	Use:   "goscan",
 	Short: "A fast, concurrent network and port scanner",
-	Long:  `go-scan — comprehensive network scanner for asset discovery and port enumeration.`,
+	Long:  `gopher-scan — comprehensive network scanner for asset discovery and port enumeration.`,
 }
 
 func Execute() {

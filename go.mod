@@ -1,4 +1,4 @@
-module go-scan
+module github.com/willj4945/gopher-scan
 
 go 1.22
 

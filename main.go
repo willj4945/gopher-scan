@@ -1,6 +1,6 @@
 package main
 
-import "go-scan/cmd"
+import "github.com/willj4945/gopher-scan/cmd"
 
 func main() {
 	cmd.Execute()

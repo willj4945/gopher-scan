@@ -1,4 +1,4 @@
-# go-scan
+# gopher-scan
 
 A fast, concurrent network and port scanner written in Go. Built for asset discovery, port enumeration, and mapping what's on your network.
 
@@ -30,8 +30,8 @@ A fast, concurrent network and port scanner written in Go. Built for asset disco
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/go-scan.git
-cd go-scan
+git clone https://github.com/willj4945/gopher-scan.git
+cd gopher-scan
 go build -o goscan .
 ```
 

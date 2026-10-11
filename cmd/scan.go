@@ -5,8 +5,8 @@ import (
 	"os"
 	"time"
 
-	"go-scan/internal/resolver"
-	"go-scan/internal/scanner"
+	"github.com/willj4945/gopher-scan/internal/resolver"
+	"github.com/willj4945/gopher-scan/internal/scanner"
 
 	"github.com/spf13/cobra"
 )
